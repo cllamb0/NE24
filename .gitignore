@@ -1,0 +1,17 @@
+intro/ne24intro
+*.ipynb_checkpoints/
+*.bbl
+*.blg
+*.aux
+*.bak
+*.log
+*.synctex.gz
+*.snm
+*.toc
+*.nav
+*.out
+*.vrb
+documentation/html
+documentation/latex
+plantes*
+*.pyc
